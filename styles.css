@@ -9,8 +9,7 @@ body {
 }
 
 .container {
-    width: 38%;
-    max-width: 1440px;
+    width: 600px;
     display: flex;
     flex-direction: row;
     background-color: hsl(0, 0%, 100%);
