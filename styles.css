@@ -15,7 +15,7 @@ body {
     flex-direction: row;
     background-color: hsl(0, 0%, 100%);
     border-radius: 1rem;
-    max-width: 100%;
+    max-width: 38%;
     overflow: hidden;
 }
 
