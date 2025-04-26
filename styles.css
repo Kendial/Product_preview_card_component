@@ -15,8 +15,9 @@ body {
     flex-direction: row;
     background-color: hsl(0, 0%, 100%);
     border-radius: 1rem;
-    max-width: 38%;
+    max-width: 100%;
     overflow: hidden;
+    gap: 2rem;
 }
 
 .image, .text-blocks {
@@ -45,9 +46,8 @@ body {
   flex-direction: column;
   justify-content: center;
   text-align: left;
-  margin-left: 3rem;
   height: 100%;
-  gap: 0.5rems;
+  gap: 0.5rem;
 }
 
 .perfume {
