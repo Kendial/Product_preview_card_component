@@ -124,9 +124,9 @@ button {
 @media (max-width: 768px) {
     .container {
         flex-direction: column;
-        width: 90%; /* 90% of screen, more fluid */
-        max-width: 375px; /* limit max width */
-        margin: 2rem 0; /* add top-bottom margin */
+        width: 90%;
+        max-width: 375px; 
+        margin: 2rem 0; 
     }
 
     .image {
@@ -141,6 +141,6 @@ button {
     }
 
     .text-blocks {
-        padding: 2rem; /* add padding for breathing space */
+        padding: 2rem; 
     }
 }
