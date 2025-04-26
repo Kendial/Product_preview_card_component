@@ -9,7 +9,7 @@ body {
 }
 
 .container {
-    width: 100%; 
+    width: 38%; 
     max-width: 1440px; 
     display: flex;
     flex-direction: row;
@@ -123,9 +123,8 @@ button {
 }
 
 @media (max-width: 768px) {
-    /*.container {
-        flex-direction: column;
-        width: 90%;
+    .container {
+         width: 90%;
         max-width: 375px; 
         margin: 2rem 0; 
     }
@@ -143,5 +142,5 @@ button {
 
     .text-blocks {
         padding: 2rem; 
-    }*/
+    }
 }
