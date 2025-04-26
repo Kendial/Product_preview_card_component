@@ -19,7 +19,9 @@ body {
     overflow: hidden;
 }
 
-
+.image, .text-blocks {
+    flex: 1 1 300px; 
+}
 
 .image {
     width: 50%;
